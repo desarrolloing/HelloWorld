@@ -4,6 +4,16 @@ Primera pagina creada con Github siguiendo guia
 https://guides.github.com/activities/hello-world/
 
 
+
+# ¿Qué es GitHub?
+GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración. Le permite a usted y a otros trabajar juntos en proyectos desde cualquier lugar.
+
+Este tutorial le enseña los elementos esenciales de GitHub como repositorios , ramas , confirmaciones y solicitudes de extracción . Creará su propio repositorio Hello World y aprenderá el flujo de trabajo Pull Request de GitHub, una forma popular de crear y revisar código.
+
+
+# Heading level 1
+
+
 Paso 1. Crea un repositorio
 Por lo general, se usa un repositorio para organizar un solo proyecto. Los repositorios pueden contener carpetas y archivos, imágenes, videos, hojas de cálculo y conjuntos de datos, todo lo que necesite su proyecto. Recomendamos incluir un archivo README o un archivo con información sobre su proyecto. GitHub facilita la adición de uno al mismo tiempo que crea su nuevo repositorio. También ofrece otras opciones comunes, como un archivo de licencia.
 
@@ -96,6 +106,7 @@ Sugerencia : puede usar emoji y arrastrar y soltar imágenes y gifs en comentari
 Paso 5. Fusiona tu solicitud de extracción
 En este paso final, es hora de unir los cambios: fusionar su readme-editsrama en la mainrama.
 
+
 Haga clic en el botón verde Fusionar solicitud de extracción para fusionar los cambios en main.
 Haga clic en Confirmar combinación .
 Continúe y elimine la rama, ya que se han incorporado sus cambios, con el botón Eliminar rama en el cuadro violeta.
@@ -113,4 +124,119 @@ Abrió y fusionó una solicitud de extracción
 ¡Eche un vistazo a su perfil de GitHub y verá sus nuevos cuadrados de contribución !
 
 Para obtener más información sobre el poder de las solicitudes de extracción, recomendamos leer la Guía de flujo de GitHub . También puede visitar GitHub Explore y participar en un proyecto de código abierto.
+
+Github suele usar el marckdoun formato para escribir la documentacion 
+
+Por ejemplo modificando el texto anterior 
+
+# Headings
+
+Markdown	
+##Heading level 1
+
+# Paragraphs
+
+First line with two spaces after.  
+And the next line.
+
+First line with the HTML tag after.<br>
+
+# Enfasis 
+
+### Negrita
+
+** lertranegrita **
+__ otra forma de scribir __
+
+
+Italic
+
+*cat's meow*
+
+Blockquotes
+Para crear blockquote agrega >
+
+> Al que madruga Dios lo ayuda 
+
+Blockquotes con otros elementos 
+
+> #### En el mundo hay !
+>
+> - Mujeres.
+> - Hombres.
+>
+>  *Todos * formamos parte  **con un mision unica**.
+
+
+
+Lista 
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+Lista con simbolo 
+
+- Second item
+- Third item
+- Fourth item
+
+Imagenes 
+
+  ![NombreDeImagent](/assets/images/Direcciondeimagen.png)
+  
+  o tabien 
+  
+
+To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.
+
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+  
+Codigo 
+
+usando  ` al inicio y fin  ` e  ` para resaltar la letra 
+
+o usando  ```    y cerrando    ``` 
+
+``Use `code` in your Markdown file.``
+
+
+Regla horizontal 
+
+***
+
+---
+
+_________________
+
+
+  Links
+To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+
+URLs and Email Addresses
+
+Deben de ir enmedio de < 
+y > 
+
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
+
+<https://www.markdownguide.org>
+<fake@example.com>
+
+
+Formatting Links
+To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets.
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+
+
+
+
 
