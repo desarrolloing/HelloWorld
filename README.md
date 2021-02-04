@@ -3,7 +3,7 @@ Primera pagina creada con Github siguiendo guia
 
 https://guides.github.com/activities/hello-world/
 
-Hola 
+Hola hola de que
 
 
 # ¿Qué es GitHub?
