@@ -3,8 +3,7 @@ Primera pagina creada con Github siguiendo guia
 
 https://guides.github.com/activities/hello-world/
 
-Hola hola de que
-
+Hola hola de que por que
 
 # ¿Qué es GitHub?
 GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración. Le permite a usted y a otros trabajar juntos en proyectos desde cualquier lugar.
